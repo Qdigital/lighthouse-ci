@@ -13,7 +13,7 @@
     "lhci": "./src/cli.js"
   },
   "dependencies": {
-    "@lhci/utils": "0.1.0",
+    "@lhci/utils": "0.6.0",
     "chrome-launcher": "^0.13.4",
     "compression": "^1.7.4",
     "express": "^4.17.1",
